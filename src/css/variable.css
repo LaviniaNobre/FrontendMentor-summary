@@ -1,0 +1,28 @@
+
+:root {
+  /* Primary */
+  --reaction: hsl(0, 100%, 67%);
+  --memory: hsl(39, 100%, 56%);
+  --verbal: hsl(166, 100%, 37%);
+  --visual: hsl(234, 85%, 45%);
+
+  /* Gradients */
+
+  --light-gradient: hsl(252, 100%, 67%);
+  --strong-gradient: hsl(241, 81%, 54%);
+  --medium-gradient: hsla(256, 72%, 46%, 1);
+  --base-gradient: hsla(241, 72%, 46%, 0);
+
+  /* Neutral */
+  
+  --white: hsl(0, 0%, 100%);
+  --light: hsl(221, 100%, 96%);
+  --medium: hsl(241, 100%, 89%);
+  --strong: hsl(224, 30%, 27%);
+
+  /* Fontes */
+
+  --font-medium: 'Font Medium';
+  --font-bold: 'Font Bold';
+  --extra-bold: 'Extra Bold';
+}
